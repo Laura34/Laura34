@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hola 👋</h1>
-    <h3 align="center">Mi nombre es Laura Mejía, actualmente soy estudiante de quinto año de la carrera de ingeniería en sistemas en la Universidad Rafael Landívar, Campus Quetzaltenango. Cuento con experiencia en diversas áreas, entre ellas ilustración, programación con lenguajes Java, C++ y Python, uso de bases de datos como MySQL y MongoDB.</h3>
+    <h3 align="center">Mi nombre es Laura Mejia, graduada de la carrera de ingeniería en sistemas en la Universidad Rafael Landívar, Campus Quetzaltenango. Cuento con experiencia en diversas áreas, entre ellas ilustración, programación con lenguajes Java, C++ y Python, así como uso de bases de datos como MySQL y MongoDB.</h3>
 </div>
 <div align="left">
     <h3>Lenguajes y Herramientas</h3>
